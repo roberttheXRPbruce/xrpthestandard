@@ -1,4 +1,4 @@
-# xrpthestandard
+# xrpthestandard!
 Ripple XRP Currency Symbol Submission<br><br>
 XRP symbol by RobertTheXRPbruce<br>
 Title; "The Ripple XRP Cross Borders Device"<br>
